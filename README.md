@@ -11,4 +11,9 @@ This is my first C++ project that is inspired by a leet code question. Basically
     ({<Hi. I am an absolute mess)}
 
 
-The program is currently at version 1.0.0 and will be updated if new ideas shall arise. Until then, this will be the final product.
+## Version 1.0.1
+
+- The program will now print out the string after it has been validated.
+
+
+The program is currently at version 1.0.1 and will be updated if new ideas shall arise. Until then, this will be the final product.
