@@ -102,6 +102,8 @@ int main() {
             getline(cin,str);
             //Verify the string for incorrect brackets placement and prompt the output
             verify(str);
+            //Printing out the string
+            cout << "Your string is: " << str << endl;
         }
         else if(decision == 3){
             //A paragraph of text describing how this program works
